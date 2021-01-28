@@ -1,0 +1,19 @@
+{
+  "name": "reddit-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihailGrin/reddit-clone.git"
+  },
+  "author": "Grin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihailGrin/reddit-clone/issues"
+  },
+  "homepage": "https://github.com/MihailGrin/reddit-clone#readme"
+}
